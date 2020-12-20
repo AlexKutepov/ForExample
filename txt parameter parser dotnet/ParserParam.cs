@@ -10,9 +10,7 @@ public class ParameterParser {
 
 	public string nameFile { private get; set; }
 
-	public List<List<float>> parsingParametersInFloat = new List<List<float>>();
-
-	public List<String> newParametrsStringTipe;
+	public static List<String> newParametrsStringTipe;
 
 	public string[] buckUpParam;
 
@@ -30,22 +28,7 @@ public class ParameterParser {
 				newParametrsStringTipe[i] = sr.ReadLine();
 			}
 		} catch {
-				MessageBox.Show("txt file not exist");
-		}
-	}
-
-	public void ConvertParamToFloat() {
-		string [] param;
-		float number;
-		for(int i=0; i< newParametrsStringTipe.Count; i++) {
-			parsingParametersInFloat.Add(new List<float>());
-			param = newParametrsStringTipe[i].Split(';');
-			for (int j=0; j<param.Length;j++){   
-				if (Single.TryParse(param[j], out number)) {
-					parsingParametersInFloat[i].Add(number);
-				} 
-			}
-			Array.Clear(param, 0, param.Length);
+			MessageBox.Show("txt file not exist");
 		}
 	}
 
@@ -53,4 +36,25 @@ public class ParameterParser {
 		newParametrsStringTipe.Clear();
 	}
 
+}
+
+public class ConvertParam{
+
+	public List<List<float>> ConvertParamToFloat() {
+		List<List<float>> parsingParametersInFloat = new List<List<float>>();
+		string [] param;
+		float number;
+		for(int i=0; i< ParameterParser.newParametrsStringTipe.Count; i++) {
+			parsingParametersInFloat.Add(new List<float>());
+			param = ParameterParser.newParametrsStringTipe[i].Split(';');
+			for (int j=0; j<param.Length;j++){   
+				if (Single.TryParse(param[j], out number)) {
+					parsingParametersInFloat[i].Add(number);
+				} 
+			}
+			Array.Clear(param, 0, param.Length);
+		}
+		return parsingParametersInFloat;
+	}
+	
 }
