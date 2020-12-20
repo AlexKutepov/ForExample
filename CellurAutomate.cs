@@ -113,23 +113,28 @@ public class ElementOfChance{
 			P_sts = p_sts;
 			P_sa = p_sa;
 			P_c = p_c;
-		}
+	}
+	
 	public float P  {
 		get;
 		set;
 	}
+	
 	public float P_sts {
 		get;
 		set;
 	}
+	
 	public float P_sa {
 		get;
 		set;
 	}
+	
 	public float P_s {
 		get;
 		set;
 	}
+	
 	public float P_c {
 		get;
 		set;
