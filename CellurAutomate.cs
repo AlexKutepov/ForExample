@@ -139,7 +139,7 @@ public class ElementOfChance{
 
 //имена параметров взяты из мам.модели
 
-	public class Parameters{
+public class Parameters{
 
 	private int maxSpeedInLaneRoad;
 	private float p_slowdown;
