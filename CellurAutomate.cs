@@ -7,7 +7,7 @@
 //Эту модель делал я,она для однополосного движения. Есть и для многополосного движения и для перекрёстка, она намного сложней...
 
 //ссылка на архитектуру:
-//https://sun9-60.userapi.com/impf/reyREqvRK61yFxIHLKwQfyfJLuFCyOJj0wShvw/B6nNE37WcD4.jpg?size=803x504&quality=96&proxy=1&sign=c42d57ea160a62aeb3fc4d2fc1a82f81&type=album
+//https://github.com/AlexKutepov/ForExample/blob/master/architecture.png
 
 //ссылка на литературу по теме:
 //http://bek.sibadi.org/fulltext/epd624.pdf
