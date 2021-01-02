@@ -1,0 +1,2 @@
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\obj\Debug\ParserMathStrTests.csprojAssemblyReference.cache
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\obj\Debug\ParserMathStrTests.csproj.CoreCompileInputs.cache

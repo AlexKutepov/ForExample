@@ -1,0 +1,11 @@
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\bin\Debug\NewCalc.dll
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\bin\Debug\NewCalc.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\bin\Debug\ParserMathStr1.dll
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\bin\Debug\ParserMathStr1.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\obj\Debug\NewCalc.csproj.CoreCompileInputs.cache
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\obj\Debug\NewCalc.csproj.CopyComplete
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\obj\Debug\NewCalc.dll
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\obj\Debug\NewCalc.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\bin\Debug\CalcException.dll
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\bin\Debug\CalcException.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalc\obj\Debug\NewCalc.csprojAssemblyReference.cache
