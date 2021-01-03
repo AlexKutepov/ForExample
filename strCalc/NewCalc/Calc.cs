@@ -31,7 +31,7 @@ namespace NewCalc {
             if (TheExpression.Count == 0) {
                 answer = 0;
                 throw new CalculatorException("The Expression is not correct");
-            } else { 
+            } else {
                 Stack<double> numbers = new Stack<double>();
                 double x = 0, y = 0;
                 double num = 0;
@@ -46,7 +46,7 @@ namespace NewCalc {
                                 numbers.Push(OperationListXandY[OperationIndexTwoVariable(TheExpression[i])](x, y));
                             } catch (CalculatorException) {
                                 answer = 0;
-                                throw new CalculatorException("Division on null");
+                              
                             }
                         } else {
                             x = numbers.Pop();
@@ -135,5 +135,7 @@ namespace NewCalc {
             return x % y;
         }
     }
+
+
 
 }

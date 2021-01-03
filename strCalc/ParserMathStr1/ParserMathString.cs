@@ -114,7 +114,10 @@ namespace ParserMathStr {
             }
             return -1;
         }
+        
     }
+
+    
 
     public class ParserMathStrInPolishEntry : ParserMathString, IExpressionPolishEntry {
 
