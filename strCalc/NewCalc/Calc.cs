@@ -14,14 +14,10 @@ namespace NewCalc {
         IExpressionPolishEntry PolskEntry;
 
         List<Operator> TheExpression;
-        List<Operator> TheOperatos;
-
 
         public Calculator(IExpressionPolishEntry polskEntry, string calcStr) {
             PolskEntry = polskEntry;
             GetTheExpressionPolishEntry(calcStr);
-            TheOperatos = new List<Operator>();
-         
         }
 
         public Calculator() {
