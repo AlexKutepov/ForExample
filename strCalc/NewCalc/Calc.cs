@@ -12,18 +12,16 @@ namespace NewCalc {
         public double answer = -1;
 
         IExpressionPolishEntry PolskEntry;
-        IExpression Operatos;
 
         List<Operator> TheExpression;
         List<Operator> TheOperatos;
 
 
-        public Calculator(IExpressionPolishEntry polskEntry, IExpression operatos, string calcStr) {
+        public Calculator(IExpressionPolishEntry polskEntry, string calcStr) {
             PolskEntry = polskEntry;
-            Operatos = operatos;
             GetTheExpressionPolishEntry(calcStr);
             TheOperatos = new List<Operator>();
-            TheOperatos = Operatos.GetOperators();
+         
         }
 
         public Calculator() {
