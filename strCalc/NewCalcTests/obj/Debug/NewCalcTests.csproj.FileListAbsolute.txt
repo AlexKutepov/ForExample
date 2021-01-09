@@ -21,3 +21,5 @@ C:\Users\tvoyboss\source\repos\NewCalc\NewCalcTests\obj\Debug\NewCalcTests.dll
 C:\Users\tvoyboss\source\repos\NewCalc\NewCalcTests\obj\Debug\NewCalcTests.pdb
 C:\Users\tvoyboss\source\repos\NewCalc\NewCalcTests\bin\Debug\CalcException.dll
 C:\Users\tvoyboss\source\repos\NewCalc\NewCalcTests\bin\Debug\CalcException.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalcTests\bin\Debug\Operations.dll
+C:\Users\tvoyboss\source\repos\NewCalc\NewCalcTests\bin\Debug\Operations.pdb

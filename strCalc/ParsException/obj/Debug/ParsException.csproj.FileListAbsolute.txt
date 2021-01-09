@@ -1,0 +1,6 @@
+C:\Users\tvoyboss\source\repos\NewCalc\ParsException\bin\Debug\ParsException.dll
+C:\Users\tvoyboss\source\repos\NewCalc\ParsException\bin\Debug\ParsException.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\ParsException\obj\Debug\ParsException.csprojAssemblyReference.cache
+C:\Users\tvoyboss\source\repos\NewCalc\ParsException\obj\Debug\ParsException.csproj.CoreCompileInputs.cache
+C:\Users\tvoyboss\source\repos\NewCalc\ParsException\obj\Debug\ParsException.dll
+C:\Users\tvoyboss\source\repos\NewCalc\ParsException\obj\Debug\ParsException.pdb

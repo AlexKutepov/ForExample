@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using Operations;
 
 namespace ParserMathStr {
 
-    public interface IExpression {
+    public interface IExpressionPars{
 
         List<string> GetExpression(string stringForPars);
 
@@ -14,8 +11,9 @@ namespace ParserMathStr {
 
     public interface IExpressionPolishEntry {
 
-        List<string> GetExpressionPolishEntry(string stringForPars);
+        List<Operator> GetExpressionPolishEntry(string stringForPars);
 
     }
+
 
 }

@@ -1,0 +1,9 @@
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\bin\Debug\Operations.dll
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\bin\Debug\Operations.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\bin\Debug\CalcException.dll
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\bin\Debug\CalcException.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\obj\Debug\Operations.csproj.CopyComplete
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\obj\Debug\Operations.dll
+C:\Users\tvoyboss\source\repos\NewCalc\Operations\obj\Debug\Operations.pdb

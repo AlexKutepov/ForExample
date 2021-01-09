@@ -17,3 +17,7 @@ C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\obj\Debug\ParserMathSt
 C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\obj\Debug\ParserMathStrTests.pdb
 C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\bin\Debug\ParserMathStr1.dll
 C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\bin\Debug\ParserMathStr1.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\bin\Debug\Operations.dll
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\bin\Debug\CalcException.dll
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\bin\Debug\Operations.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStrTests\bin\Debug\CalcException.pdb

@@ -60,6 +60,10 @@
       <Project>{63822207-6fdf-493a-8459-6b7e1094b0db}</Project>
       <Name>NewCalc</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Operations\Operations.csproj">
+      <Project>{5d87b655-fc12-49f0-b346-56caeee8f359}</Project>
+      <Name>Operations</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ParserMathStr1\ParserMathStr.csproj">
       <Project>{f28fc564-14f1-4b4c-937d-d04b9e605db2}</Project>
       <Name>ParserMathStr</Name>

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcException", "CalcExcept
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsException", "ParsException\ParsException.csproj", "{1ADF46AD-A996-4577-9B7A-EB9A65A322D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{5D87B655-FC12-49F0-B346-56CAEEE8F359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1ADF46AD-A996-4577-9B7A-EB9A65A322D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ADF46AD-A996-4577-9B7A-EB9A65A322D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADF46AD-A996-4577-9B7A-EB9A65A322D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D87B655-FC12-49F0-B346-56CAEEE8F359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D87B655-FC12-49F0-B346-56CAEEE8F359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D87B655-FC12-49F0-B346-56CAEEE8F359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D87B655-FC12-49F0-B346-56CAEEE8F359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

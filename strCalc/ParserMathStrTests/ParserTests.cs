@@ -5,8 +5,36 @@ namespace ParserMathStrTests {
 
     [TestClass]
     public class ParserTests {
-        
+
         //Что нужно: отрицательные,с десятками, со скобками, сложные выражения, функции, исключения
+
+        [TestMethod]
+        public void GetExpressionPolishEntry_TestEasyExpression() {
+            //arrange
+            string str = "1 / 2";
+            Operations.Expression newExpression = new Operations.Expression();
+            ParserMathStr.ParserMathOperationInPolishEntry parserMathStr =
+                new ParserMathStr.ParserMathOperationInPolishEntry(newExpression);
+            List<Operations.Operator> expected = new List<Operations.Operator>() {
+                new Operations.Number {
+                    number = 1
+                },
+                new Operations.Number {
+                    number = 2
+                },
+                new Operations.DivisionSing {
+                    symbol = "/",
+                    prior=1,
+                    binarOp = true,
+                }
+            };
+            // Act
+            List<Operations.Operator> actual =
+            parserMathStr.GetExpressionPolishEntry(str);
+            // Assert
+            CollectionAssert.AreEqual(expected, actual);
+        }
+
 
         [TestMethod]
         public void GetPolishEntryListElements_TestEasyExpression() {

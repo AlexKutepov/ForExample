@@ -49,6 +49,10 @@
       <Project>{f0807539-52d1-4c81-ac26-7be05e41381d}</Project>
       <Name>CalcException</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Operations\Operations.csproj">
+      <Project>{5d87b655-fc12-49f0-b346-56caeee8f359}</Project>
+      <Name>Operations</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ParserMathStr1\ParserMathStr.csproj">
       <Project>{f28fc564-14f1-4b4c-937d-d04b9e605db2}</Project>
       <Name>ParserMathStr</Name>

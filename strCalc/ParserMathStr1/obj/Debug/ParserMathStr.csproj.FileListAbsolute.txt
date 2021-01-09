@@ -4,3 +4,8 @@ C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\obj\Debug\ParserMathStr.cs
 C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\obj\Debug\ParserMathStr.csproj.CoreCompileInputs.cache
 C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\obj\Debug\ParserMathStr1.dll
 C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\obj\Debug\ParserMathStr1.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\bin\Debug\Operations.dll
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\bin\Debug\CalcException.dll
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\bin\Debug\Operations.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\bin\Debug\CalcException.pdb
+C:\Users\tvoyboss\source\repos\NewCalc\ParserMathStr1\obj\Debug\ParserMathStr.csproj.CopyComplete

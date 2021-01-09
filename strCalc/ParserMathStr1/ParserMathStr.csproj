@@ -45,5 +45,11 @@
     <Compile Include="ParserMathString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Operations\Operations.csproj">
+      <Project>{5d87b655-fc12-49f0-b346-56caeee8f359}</Project>
+      <Name>Operations</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
